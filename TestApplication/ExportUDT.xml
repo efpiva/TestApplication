@@ -1,0 +1,44 @@
+<BOM>
+  <BO>
+    <AdmInfo>
+      <Object>153</Object>
+      <Version>2</Version>
+    </AdmInfo>
+    <UserTablesMD>
+      <row>
+        <TableName>TEST</TableName>
+        <TableDescription>Test UDO Form</TableDescription>
+        <TableType>bott_Document</TableType>
+        <Archivable>tNO</Archivable>
+      </row>
+    </UserTablesMD>
+  </BO>
+  <BO>
+    <AdmInfo>
+      <Object>153</Object>
+      <Version>2</Version>
+    </AdmInfo>
+    <UserTablesMD>
+      <row>
+        <TableName>TEST_LINES</TableName>
+        <TableDescription>TEST UDO Form Lines</TableDescription>
+        <TableType>bott_DocumentLines</TableType>
+        <Archivable>tNO</Archivable>
+      </row>
+    </UserTablesMD>
+  </BO>
+  <BO>
+    <AdmInfo>
+      <Object>153</Object>
+      <Version>2</Version>
+    </AdmInfo>
+    <UserTablesMD>
+      <row>
+        <TableName>TEST_LINES2</TableName>
+        <TableDescription>Test Lines 2</TableDescription>
+        <TableType>bott_DocumentLines</TableType>
+        <Archivable>tNO</Archivable>
+      </row>
+    </UserTablesMD>
+  </BO>
+</BOM>
